@@ -9,3 +9,6 @@ use python 3.10
 pip3 install opencv-python
 pip3 install tqdm
 ```
+
+
+Про алгоритмы выделения контуров -> выделения линий
